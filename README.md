@@ -4,7 +4,7 @@
 
 I build scalable web and mobile applications with a strong focus on clean architecture, performance, and user experience.
 
-Over the past **3+ years**, I've worked on healthcare, e-commerce, dairy management, and AI-powered applications. I enjoy solving real-world problems, learning new technologies, and building products that people actually use.
+Over the past **3+ years**, I've worked on healthcare, e-commerce, subscription management, and AI-powered applications. I enjoy solving real-world problems, learning new technologies, and building products that people actually use.
 
 Currently I'm exploring:
 
@@ -21,7 +21,7 @@ Currently I'm exploring:
 * 🏥 Healthcare applications & hospital management systems
 * 📱 Cross-platform mobile apps using React Native
 * 🤖 AI-powered productivity applications
-* 🥛 Subscription-based Dairy Management Platform
+* 🥛 Subscription-based Management Platform
 * 🛍️ Modern eCommerce solutions
 * ☁️ Self-hosted infrastructure using Docker & Linux
 
@@ -47,7 +47,7 @@ A complete hospital ecosystem including:
 
 ---
 
-## 📱 GNRC Mobile Application
+## 📱 Healthcare Mobile Application
 
 A healthcare application focused on patient experience.
 
@@ -61,9 +61,9 @@ Features include:
 
 ---
 
-## 🥛 Dairy Subscription Platform
+## 💰 Subscription Platform
 
-A production-ready platform connecting buyers, suppliers and dairy owners.
+A production-ready platform connecting buyers, suppliers and owners.
 
 Features:
 
@@ -80,7 +80,7 @@ Next.js • TypeScript • Neon PostgreSQL • Drizzle ORM • Vercel
 
 ---
 
-## 🛍️ Salon eCommerce Platform
+## 🛍️ eCommerce Platform
 
 A full-featured online shopping platform.
 
